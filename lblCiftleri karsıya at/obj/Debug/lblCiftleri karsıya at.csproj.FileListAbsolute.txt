@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\bin\Debug\lblCiftleri karsıya at.exe.config
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\bin\Debug\lblCiftleri karsıya at.exe
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\bin\Debug\lblCiftleri karsıya at.pdb
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri karsıya at.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri karsıya at.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri_karsıya_at.Form1.resources
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri_karsıya_at.Properties.Resources.resources
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri karsıya at.csproj.GenerateResource.cache
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri karsıya at.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri karsıya at.exe
+C:\Users\User\source\repos\lblCiftleri karsıya at\lblCiftleri karsıya at\obj\Debug\lblCiftleri karsıya at.pdb
